@@ -1,3 +1,3 @@
 # 42_ft_printf
 
-Ce projet est clair et efficace. Il fallait recoder printf. Ce projet porte principalement sur les arguments à taille variable. 
+This project is clear and concise. To recode printf. This project main focus is variadic functions.
